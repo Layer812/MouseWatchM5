@@ -15,6 +15,15 @@ M5Stack **StopWatchをBluetoothマウスにする**アプリです。画面を�
 3. iPadやPCのBluetooth設定で **MouseWatchM5** を選び、接続します。
 4. 画面の中央をなぞるとカーソル移動、軽くタップするとクリック。外周のリングをなぞるとスクロールできます。本体の左右ボタンもクリックに使えます。
 
+### iPadで使う場合 / iPad Bluetooth mouse
+
+iPadでは `設定 → Bluetooth` を開き、「その他のデバイス」から **MouseWatchM5** を選んで接続してください。接続後はポインタやスクロールを利用できます（**iPadOS 13.4以降**）。
+
+- [Apple公式：iPadにBluetoothマウスを接続する方法](https://support.apple.com/ja-jp/108938)
+- [Apple公式：iPadでBluetoothマウス／トラックパッドを使う・設定する](https://support.apple.com/ja-jp/105004)
+- [BLEマウスの仕組みと実装例：ESP32-BLE-Mouse（GitHub）](https://github.com/T-vK/ESP32-BLE-Mouse)
+- [iPad BLEマウスをWebで調べる（Google検索）](https://www.google.com/search?q=ipad+ble+pad+mouse)
+
 ## 設定
 
 起動画面の中央をタップすると、次の3項目が表示されます。
@@ -55,6 +64,15 @@ M5Stack **StopWatchをBluetoothマウスにする**アプリです。画面を�
 2. Press either hardware button on the startup screen to start mouse mode. Tap the center of the startup screen for **Settings**.
 3. Pair **MouseWatchM5** in your iPad or computer's Bluetooth settings.
 4. Swipe the center to move the cursor, tap to click, or trace the outer ring to scroll. The hardware buttons also provide mouse clicks.
+
+### iPad pairing and reference links
+
+On iPad, open **Settings → Bluetooth**, then select **MouseWatchM5** under Other Devices. Bluetooth mouse support requires **iPadOS 13.4 or later**.
+
+- [Apple: Connect a Bluetooth mouse to iPad (Japanese)](https://support.apple.com/ja-jp/108938)
+- [Apple: Use and customize an iPad mouse (Japanese)](https://support.apple.com/ja-jp/105004)
+- [ESP32 BLE Mouse library / implementation reference](https://github.com/T-vK/ESP32-BLE-Mouse)
+- [More information: iPad BLE mouse search](https://www.google.com/search?q=ipad+ble+pad+mouse)
 
 ### Settings and photos
 
