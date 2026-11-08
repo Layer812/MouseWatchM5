@@ -1,6 +1,9 @@
 # MouseWatchM5
 
-![MouseWatchM5](mouse.webp)
+<p align="center">
+  <img src="./mouse.jpeg" alt="Mouse Face" width="49%">
+  <img src="./mouse2.png" alt="Cat Clock" width="49%">
+</p>
 
 M5Stack **StopWatchをBluetoothマウスにする**アプリです。画面をなぞってカーソル移動、外周をなぞってスクロール。好きな画像を背景にして使えます。
 
