@@ -11,7 +11,7 @@ M5Stack **StopWatchを Bluetoothタッチパッド式マウス にする**アプ
 
 **好きな画像や猫の住む時計を「Mouse Face」にできます。**
 
-> **[M5Burner（公式ダウンロード）](https://docs.m5stack.com/en/download)** ｜ シェアコード：`ghY29E2KIHDJOvuY`
+> **[M5Burner（公式ダウンロード）](https://docs.m5stack.com/en/download)** ｜ シェアコード：`H0AYtQeKViwmjfgL`
 
 ## 使い方
 
@@ -61,7 +61,7 @@ iPadでは `設定 → Bluetooth` を開き、「その他のデバイス」か�
 
 **Use your favorite image or a clock inhabited by a cat as your Mouse Face.**
 
-**[M5Burner (official download)](https://docs.m5stack.com/en/download)** — Share code: `ghY29E2KIHDJOvuY`
+**[M5Burner (official download)](https://docs.m5stack.com/en/download)** — Share code: `H0AYtQeKViwmjfgL`
 
 ### Getting started
 
