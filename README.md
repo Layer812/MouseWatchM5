@@ -95,6 +95,8 @@ Made for **M5Stack StopWatch**.
 
 ## ソースコードとライセンス / Source and License
 
+**R2 FIX13 公開ソース / Public source:** [C++ ソース / C++ source](src/) · [PlatformIO 設定 / build config](platformio.ini) · [日本語ビルド手順](docs/BUILDING_JP.md) · [English build guide](docs/BUILDING.md) · [Tests](tests/)
+
 Copyright © 2026 Layer812. ソースコードは **GNU GPL-3.0-or-later** で公開しています。
 
 Copyright © 2026 Layer812. Source code is released under **GNU GPL-3.0-or-later**. See [LICENSE](LICENSE) and [Third-party notices](THIRD_PARTY_LICENSES.md).
