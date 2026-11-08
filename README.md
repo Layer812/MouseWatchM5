@@ -1,21 +1,23 @@
 # MouseWatchM5
 
+[English version / 英語版はこちら](#english)
+
 <p align="center">
   <img src="./mouse.jpeg" alt="Mouse Face" height="270">
   <img src="./mouse2.png" alt="Cat Clock" height="270">
 </p>
 
-M5Stack **StopWatchをBluetoothマウスにする**アプリです。画面をなぞってカーソル移動、外周をなぞってスクロール、左右のボタンでクリック。
+M5Stack **StopWatchを Bluetoothタッチパッド式マウス にする**アプリです。画面をなぞってカーソル移動、外周をなぞってスクロール、左右のボタンでクリック。
 
 **好きな画像や猫の住む時計を「Mouse Face」にできます。**
 
 ※ 操作方式は**タッチパッド式**です。StopWatch本体を振って操作するジャイロ式エアマウスではありません。
 
-> **M5Burner シェアコード：`ghY29E2KIHDJOvuY`**
+> **[M5Burner（公式ダウンロード）](https://docs.m5stack.com/en/download)** ｜ シェアコード：`ghY29E2KIHDJOvuY`
 
 ## 使い方
 
-1. M5Burnerでシェアコードを検索し、StopWatchへ書き込みます。
+1. [M5Burner](https://docs.m5stack.com/en/download)でシェアコードを検索し、StopWatchへ書き込みます。
 2. 起動後、**本体の左右いずれかのボタン**でマウスを開始します。設定するときは、**起動画面の円の中心をタップ**します。
 3. iPadやPCのBluetooth設定で **MouseWatchM5** を選び、接続します。
 4. 画面の中央をなぞるとカーソル移動、軽くタップするとクリック。外周のリングをなぞるとスクロールできます。本体の左右ボタンもクリックに使えます。
@@ -57,17 +59,17 @@ iPadでは `設定 → Bluetooth` を開き、「その他のデバイス」か�
 
 ## English
 
-**MouseWatchM5** turns the M5Stack StopWatch into a Bluetooth mouse. Swipe the screen to move the pointer, trace the outer ring to scroll, and click with the left and right hardware buttons.
+**MouseWatchM5** turns the M5Stack StopWatch into a Bluetooth touchpad mouse. Swipe the screen to move the pointer, trace the outer ring to scroll, and click with the left and right hardware buttons.
 
 **Use your favorite image or a clock inhabited by a cat as your Mouse Face.**
 
 This is a **touchpad mouse**, not a gyroscope-based air mouse.
 
-**M5Burner share code: `ghY29E2KIHDJOvuY`**
+**[M5Burner (official download)](https://docs.m5stack.com/en/download)** — Share code: `ghY29E2KIHDJOvuY`
 
 ### Getting started
 
-1. Find the share code in M5Burner and install it on your StopWatch.
+1. Download [M5Burner](https://docs.m5stack.com/en/download), find the share code, and install it on your StopWatch.
 2. Press either hardware button on the startup screen to start mouse mode. Tap the center of the startup screen for **Settings**.
 3. Pair **MouseWatchM5** in your iPad or computer's Bluetooth settings.
 4. Swipe the center to move the cursor, tap to click, or trace the outer ring to scroll. The hardware buttons also provide mouse clicks.
