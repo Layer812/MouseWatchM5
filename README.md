@@ -15,7 +15,7 @@ M5Stack **StopWatchを Bluetoothタッチパッド式マウス にする**アプ
 
 ## 使い方
 
-1. [M5Burner](https://docs.m5stack.com/en/download)でシェアコードを検索し、StopWatchへ書き込みます。
+1. [M5Burner](https://docs.m5stack.com/en/download)でシェアコードを入力し、StopWatchへ書き込みます。
 2. 起動後、**本体の左右いずれかのボタン**でマウスを開始します。設定するときは、**起動画面の円の中心をタップ**します。
 3. iPadやPCのBluetooth設定で **MouseWatchM5** を選び、接続します。
 4. 画面の中央をなぞるとカーソル移動、軽くタップするとクリック。外周のリングをなぞるとスクロールできます。本体の左右ボタンもクリックに使えます。
