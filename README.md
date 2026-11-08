@@ -1,13 +1,13 @@
 # MouseWatchM5
 
 <p align="center">
-  <img src="./mouse.jpeg" alt="Mouse Face" width="49%">
-  <img src="./mouse2.png" alt="Cat Clock" width="49%">
+  <img src="./mouse.jpeg" alt="Mouse Face" height="270">
+  <img src="./mouse2.png" alt="Cat Clock" height="270">
 </p>
 
-M5Stack **StopWatchをBluetoothマウスにする**アプリです。画面をなぞってカーソル移動、外周をなぞってスクロール。好きな画像を背景にして使えます。
+M5Stack **StopWatchをBluetoothマウスにする**アプリです。画面をなぞってカーソル移動、外周をなぞってスクロール、左右のボタンでクリック。
 
-**好きな画像を「Mouse Face」にできます。猫が好きなら、猫が住む時計「Cat Clock」にもできます。**
+**好きな画像や猫の住む時計を「Mouse Face」にできます。**
 
 > **M5Burner シェアコード：`ghY29E2KIHDJOvuY`**
 
@@ -55,9 +55,9 @@ iPadでは `設定 → Bluetooth` を開き、「その他のデバイス」か�
 
 ## English
 
-**MouseWatchM5** turns the M5Stack StopWatch into a Bluetooth mouse. Swipe the center to move the pointer, tap to click, and trace the outer ring to scroll.
+**MouseWatchM5** turns the M5Stack StopWatch into a Bluetooth mouse. Swipe the screen to move the pointer, trace the outer ring to scroll, and click with the left and right hardware buttons.
 
-**Make any picture your Mouse Face—or choose Cat Clock, an animated clock with a resident cat.**
+**Use your favorite image or a clock inhabited by a cat as your Mouse Face.**
 
 **M5Burner share code: `ghY29E2KIHDJOvuY`**
 
@@ -90,3 +90,11 @@ To use your own photo, select **Watch Face → USB Drive**, connect to a compute
 ---
 
 Made for **M5Stack StopWatch**.
+
+## ソースコードとライセンス / Source and License
+
+Copyright © 2026 Layer812. ソースコードは **GNU GPL-3.0-or-later** で公開しています。
+
+Copyright © 2026 Layer812. Source code is released under **GNU GPL-3.0-or-later**. See [LICENSE](LICENSE) and [Third-party notices](THIRD_PARTY_LICENSES.md).
+
+掲載写真（`mouse.jpeg` / `mouse2.png`）はソースコードのライセンス対象外です。/ The photos are not covered by the source-code license.
