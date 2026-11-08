@@ -9,6 +9,8 @@ M5Stack **StopWatchをBluetoothマウスにする**アプリです。画面を�
 
 **好きな画像や猫の住む時計を「Mouse Face」にできます。**
 
+※ 操作方式は**タッチパッド式**です。StopWatch本体を振って操作するジャイロ式エアマウスではありません。
+
 > **M5Burner シェアコード：`ghY29E2KIHDJOvuY`**
 
 ## 使い方
@@ -58,6 +60,8 @@ iPadでは `設定 → Bluetooth` を開き、「その他のデバイス」か�
 **MouseWatchM5** turns the M5Stack StopWatch into a Bluetooth mouse. Swipe the screen to move the pointer, trace the outer ring to scroll, and click with the left and right hardware buttons.
 
 **Use your favorite image or a clock inhabited by a cat as your Mouse Face.**
+
+This is a **touchpad mouse**, not a gyroscope-based air mouse.
 
 **M5Burner share code: `ghY29E2KIHDJOvuY`**
 
