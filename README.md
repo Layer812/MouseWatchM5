@@ -11,11 +11,13 @@ M5Stack **StopWatchを Bluetoothタッチパッド式マウス にする**アプ
 
 **好きな画像や猫の住む時計を「Mouse Face」にできます。**
 
+> **WebBurner公開版： [ブラウザからStopWatchへ書き込む](https://burner.m5stack.com/72ELHN)**
+>
 > **[M5Burner（公式ダウンロード）](https://docs.m5stack.com/en/download)** ｜ シェアコード：`H0AYtQeKViwmjfgL`
 
 ## 使い方
 
-1. [M5Burner](https://docs.m5stack.com/en/download)でシェアコードを入力し、StopWatchへ書き込みます。
+1. **[WebBurner](https://burner.m5stack.com/72ELHN)** から書き込むか、[M5Burner](https://docs.m5stack.com/en/download)でシェアコード `H0AYtQeKViwmjfgL` を入力し、StopWatchへ書き込みます。
 2. 起動後、**本体の左右いずれかのボタン**でマウスを開始します。設定するときは、**起動画面の円の中心をタップ**します。
 3. iPadやPCのBluetooth設定で **MouseWatchM5** を選び、接続します。
 4. 画面の中央をなぞるとカーソル移動、軽くタップするとクリック。外周のリングをなぞるとスクロールできます。本体の左右ボタンもクリックに使えます。
@@ -61,11 +63,13 @@ iPadでは `設定 → Bluetooth` を開き、「その他のデバイス」か�
 
 **Use your favorite image or a clock inhabited by a cat as your Mouse Face.**
 
+**Public WebBurner release: [Install from your browser](https://burner.m5stack.com/72ELHN)**
+
 **[M5Burner (official download)](https://docs.m5stack.com/en/download)** — Share code: `H0AYtQeKViwmjfgL`
 
 ### Getting started
 
-1. Download [M5Burner](https://docs.m5stack.com/en/download), find the share code, and install it on your StopWatch.
+1. Install the public release via [WebBurner](https://burner.m5stack.com/72ELHN), or use [M5Burner](https://docs.m5stack.com/en/download) and enter share code `H0AYtQeKViwmjfgL`.
 2. Press either hardware button on the startup screen to start mouse mode. Tap the center of the startup screen for **Settings**.
 3. Pair **MouseWatchM5** in your iPad or computer's Bluetooth settings.
 4. Swipe the center to move the cursor, tap to click, or trace the outer ring to scroll. The hardware buttons also provide mouse clicks.
